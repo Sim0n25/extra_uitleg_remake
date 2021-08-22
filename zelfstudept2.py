@@ -8,4 +8,3 @@ elif a == b:
 else:
   print("a is greater than b")
 
-  #loop while
